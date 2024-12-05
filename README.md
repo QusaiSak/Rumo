@@ -99,6 +99,4 @@ Enjoy your game of Uno-Rummy!
 """
 
 
-## PS will be completing this hopefully before end of the year 
-
 
